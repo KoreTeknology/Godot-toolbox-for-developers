@@ -14,13 +14,13 @@ Enjoy !
 
 **Addon Overview** | **Release Status:**
 ------------ | -------------
-**2D View**: add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *V.1*
-**Task List**: add a TODO style tasklist. it shows: numered lines of tasks | *V.1*
-**Quick Notes**: add a quick notes dock at the bottom, simple ! | *V.1*
-**File Editor**: add a second script/text file editor ! | *V.1*
-**Collections Nodes**: add a set of custom nodes to help organizing projects ! | *V.1*
-**Macros**: Add and create Macroscripts (snippets) | *V.1*
-**Preferences**: Set particular settings in dedicated dock | *V.1*
+**2D View**: add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *V.0.2*
+**Task List**: add a TODO style tasklist. it shows: numered lines of tasks | *V.0.3*
+**Quick Notes**: add a quick notes dock at the bottom, simple ! | *V.0.1*
+**File Editor**: add a second script/text file editor ! | *V.0.2*
+**Collections Nodes**: add a set of custom nodes to help organizing projects ! | *V.0.3*
+**Macros**: Add and create Macroscripts (snippets) | *V.0.0a*
+**Preferences**: Set particular settings in dedicated dock | *V.0.2*
 
 Here is the list of the original versions:
 - **Zoomy**, Nobuyuki 
@@ -33,10 +33,8 @@ Here is the list of the original versions:
 
 ## Development Plans TODO
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Update Last Macros release
+- [ ] incomplete Preferences Addon
 
 ---
 
