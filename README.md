@@ -19,13 +19,17 @@ Then, create or use the addons folder in your project directory, and copy the ad
 You have to go in your project settings and activate them, in order to be able to use them.
 Enjoy !
 
-**Addon Overview** | **Status:**
+**Addon Overview** | **Release Status:**
 ------------ | -------------
-**2DView Addon**: add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *V.1*
-**TaskList addon**: add a TODO style tasklist. it shows: numered lines of tasks, simple ! | *V.1*
+**2D View**: add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *V.1*
+**Task List**: add a TODO style tasklist. it shows: numered lines of tasks | *V.1*
+**Quick Notes**: add a quick notes dock at the bottom, simple ! | *V.1*
+**File Editor**: add a second script/text file editor ! | *V.1*
+**Collections Nodes**: add a set of custom nodes to help organizing projects ! | *V.1*
+**Macros**: Add and create Macroscripts (snippets) | *V.1*
+**Preferences**: Set particular settings in dedicated dock | *V.1*
 
 Here is the list of the original versions:
-
 - **Zoomy**, Nobuyuki 
 - **Todo**, Jahn Johansen
 - **Plugin Refresher**, Willnationdev
