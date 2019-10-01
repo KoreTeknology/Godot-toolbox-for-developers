@@ -2,7 +2,7 @@
 
 My personal toolbox to use with Godot Engine 3.1.1 http://godotengine.org. This scripts repository is a **collection of scripts** that i did modify to fit my personal needs. It is constantly in progress as i am using those addons on a regular basis and i do update the code !
 
-<img src="https://img.shields.io/badge/Godot-3.1.1-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/GDscript-Coding-purple.svg" />
+<img src="https://img.shields.io/badge/Godot Engine-3.1.1-lightblue.svg" alt="Name" />  <img src="https://img.shields.io/badge/GD-Script-purple.svg" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" /> 
 
 ---
 
