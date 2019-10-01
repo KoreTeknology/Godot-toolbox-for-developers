@@ -1,5 +1,6 @@
-# Godot-toolbox-for-developers
+# Godot Toolbox (for-developers)
 My personal toolbox to use with Godot Engine 3.1.1
+This repository is constantly in progress as i am using those addons on a regular basis and i do update the code !
 
 <img src="https://img.shields.io/badge/Godot-3.1.1-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/GDscript-Coding-purple.svg" />
 
@@ -40,7 +41,10 @@ Here is the list of the original versions:
 
 ## Development Plans
 
-TODO
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ---
 
