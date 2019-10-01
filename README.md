@@ -37,12 +37,25 @@ Here is the list of the original versions:
 
 ## Addons description:
 
-### 2D View
-
-Details | Screenshot|
-:-------------------------:|:-------------------------:
+2D View Details | Screenshot
+------------ | -------------
 2D View: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. | <img src="https://github.com/KoreTeknology/Godot-toolbox-for-developers/blob/master/Documentation/images/screen.png">
 
+TaskList Details | Screenshot
+------------ | -------------
+2D View: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. | <img src="https://github.com/KoreTeknology/Godot-toolbox-for-developers/blob/master/Documentation/images/screen.png">
+
+Notes Details | Screenshot
+------------ | -------------
+2D View: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. | <img src="https://github.com/KoreTeknology/Godot-toolbox-for-developers/blob/master/Documentation/images/screen.png">
+
+Collections nodes Details | Screenshot
+------------ | -------------
+2D View: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. | <img src="https://github.com/KoreTeknology/Godot-toolbox-for-developers/blob/master/Documentation/images/screen.png">
+
+Macros Details | Screenshot
+------------ | -------------
+2D View: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. | <img src="https://github.com/KoreTeknology/Godot-toolbox-for-developers/blob/master/Documentation/images/screen.png">
 
 ## Development Plans TODO
 
