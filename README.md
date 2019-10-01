@@ -4,16 +4,6 @@ My personal toolbox to use with Godot Engine 3.1.1
 <img src="https://img.shields.io/badge/Godot-3.1.1-orange.svg" alt="Name" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" />  <img src="https://img.shields.io/badge/GDscript-Coding-purple.svg" />
 
 This scripts repository is a **collection of scripts** that i did modify to fit my personal needs.
-Here is the list of the original versions:
-
-- **Zoomy**, Nobuyuki 
-- **Todo**, Jahn Johansen
-- **Plugin Refresher**, Willnationdev
-- **Notes**, Roboweb
-- **Collections Nodes**, uriel Deveaud "CincoViento"
-- **Macros**, uriel Deveaud "CincoViento"
-- **File Editor**, Nicolo "Fenix" Santillo
-
 
 ## Latest Version
 
@@ -23,40 +13,26 @@ Here is the list of the original versions:
 
 ---
 
-
 ## How to use:
 First, you need to download the package, then choose the addons you want to use in your projects.
 Then, create or use the addons folder in your project directory, and copy the addons into it.
 You have to go in your project settings and activate them, in order to be able to use them.
 Enjoy !
 
-## Addons Overview 
+**Addon Overview** | **Status:**
+------------ | -------------
+**2DView Addon**: add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *V.1*
+**TaskList addon**: add a TODO style tasklist. it shows: numered lines of tasks, simple ! | *V.1*
 
+Here is the list of the original versions:
 
-
-
-
-### 2D View: Type DOCK
-
-| **2D View Addon**  | **Status:**  |
-| This plugin add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *In progress* |
-
-
-
-
-| **2D View** *In progress* | **Title:** *MK2* |
-| **Type DOCK** | --- |
-
-
-### Task List: Type DOCK **Status:** *In progress* | **Title:** *MK1* |
-This plugin add a TODO style tasklist. it shows: numered lines of tasks, simple !
-
-
-
-
-
-
-
+- **Zoomy**, Nobuyuki 
+- **Todo**, Jahn Johansen
+- **Plugin Refresher**, Willnationdev
+- **Notes**, Roboweb
+- **Collections Nodes**, uriel Deveaud "CincoViento"
+- **Macros**, uriel Deveaud "CincoViento"
+- **File Editor**, Nicolo "Fenix" Santillo
 
 ## Development Plans
 
