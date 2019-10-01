@@ -12,6 +12,8 @@ Then, create or use the addons folder in your project directory, and copy the ad
 You have to go in your project settings and activate them, in order to be able to use them.
 Enjoy !
 
+---
+
 **Addon Overview** | **Release Status:**
 ------------ | -------------
 **2D View**: add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *V.0.2*
@@ -30,6 +32,14 @@ Here is the list of the original versions:
 - **Collections Nodes**, uriel Deveaud "CincoViento"
 - **Macros**, uriel Deveaud "CincoViento"
 - **File Editor**, Nicolo "Fenix" Santillo
+
+---
+
+## Addons description:
+
+### 2D View
+
+
 
 ## Development Plans TODO
 
