@@ -6,12 +6,6 @@ My personal toolbox to use with Godot Engine 3.1.1 http://godotengine.org. This 
 
 This scripts repository is a **collection of scripts** that i did modify to fit my personal needs.
 
-## Latest Version
-
-| Date | Title | Downloads |
-| --- | --- | --- |
-| **2019-10-1** | Module *Godot Plugins* - for **GodotEngine v3.1x** - Win10/MacOS/Linux |[Link](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/releases) |
-
 ---
 
 ## How to use:
