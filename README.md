@@ -32,14 +32,23 @@ Enjoy !
 
 ## Addons Overview 
 
+
+
+
+
 ### 2D View: Type DOCK
+
 | **Status:** *In progress* | **Title:** *MK2* |
 | --- | --- |
 This plugin add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%)
 
-### Task List: Type DOCK
-| **Status:** *In progress* | **Title:** *MK1* |
-| --- | --- |
+
+
+| **2D View** **Status:** *In progress* | **Title:** *MK2* |
+| **Type DOCK** | --- |
+
+
+### Task List: Type DOCK **Status:** *In progress* | **Title:** *MK1* |
 This plugin add a TODO style tasklist. it shows: numered lines of tasks, simple !
 
 
