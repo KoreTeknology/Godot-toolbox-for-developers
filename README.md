@@ -38,13 +38,13 @@ Enjoy !
 
 ### 2D View: Type DOCK
 
-| **Status:** *In progress* | **Title:** *MK2* |
-| --- | --- |
-This plugin add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%)
+| **2D View Addon**  | **Status:**  |
+| This plugin add a bottom dock to the 2D view. it shows: Mouse position (x/y), zoom level (%) | *In progress* |
 
 
 
-| **2D View** **Status:** *In progress* | **Title:** *MK2* |
+
+| **2D View** *In progress* | **Title:** *MK2* |
 | **Type DOCK** | --- |
 
 
