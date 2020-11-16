@@ -4,8 +4,6 @@ My personal toolbox to use with Godot Engine 3.1.1 http://godotengine.org. This 
 
 <img src="https://img.shields.io/badge/Godot Engine-3.1.1-lightblue.svg" alt="Name" />  <img src="https://img.shields.io/badge/GD-Script-purple.svg" /> <img src="https://img.shields.io/badge/Uriel Deveaud-2019-blue.svg" /> 
 
-# This page is a work in progress, until the 15/10/2019 ! 
-
 ---
 
 ## How to use:
